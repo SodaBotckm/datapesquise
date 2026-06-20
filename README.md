@@ -23,7 +23,7 @@ O **DATApesquise** é um sistema completo e robusto desenvolvido para orquestrar
 
 ## ✨ Funcionalidades Principais
 
-* **Construtor de Formulários (Form Builder):** Interface drag-and-drop avançada, inspirada no KoboToolbox, permitindo a criação de questionários dinâmicos com lógicas de pulo, validações matemáticas e suporte à importação/exportação de XLSForm.
+* **Construtor de Formulários (Form Builder):** Interface drag-and-drop avançada. permitindo a criação de questionários dinâmicos com lógicas de pulo, validações matemáticas e suporte à importação/exportação de XLSForm.
 * **Integração Mobile Offline (ODK Collect):** Suporte nativo ao protocolo OpenRosa. Pesquisadores utilizam o aplicativo ODK Collect no Android para coletar dados em áreas sem internet, enviando para o servidor assim que reconectados.
 * **Gestão de Equipes e Permissões:** Controle de acesso granular baseado em RBAC (Role-Based Access Control). Perfis distintos para Administradores, Coordenadores, Analistas e Pesquisadores.
 * **Análise e Dashboards em Tempo Real:** Visualização gráfica de resultados com Chart.js e painéis analíticos dinâmicos.
